@@ -1,2 +1,2 @@
 # Machine-Leaning-Class
-Classification eample with Iris Dataset
+Classification example with Iris Dataset
